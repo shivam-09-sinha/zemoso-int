@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Cera Pro";
+  src: url(../public/assets/fonts/Cera\ Pro\ Regular.otf);
+}
+
+body {
+  margin: 0;
+  font-family: "Cera Pro",sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+}
